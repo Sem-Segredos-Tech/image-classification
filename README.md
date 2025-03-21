@@ -67,7 +67,7 @@ Para usar seu próprio modelo:
 
 ## Crie seu próprio dataset
 
-Para coletar imagens para treinar seu modelo, você pode usar a ferramenta DuckImg Scraper disponível em [github.com/johanlabs/duckimg-scrape](https://github.com/johanlabs/duckimg-scrape).
+Para coletar imagens para treinar seu modelo, você pode usar a ferramenta DuckImg Scraper disponível em [@johanlabs/duckimg-scrape](https://github.com/johanlabs/duckimg-scraper).
 
 Exemplo de uso:
 
